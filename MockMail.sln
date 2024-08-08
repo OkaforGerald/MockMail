@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockMail", "MockMail\MockMail.csproj", "{9E9ACB11-99BC-4CE7-9927-1DA715515E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockMail.Test", "MockMail.Test\MockMail.Test.csproj", "{4FD821B9-4D24-49A8-8EE1-F61F999FF146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9ACB11-99BC-4CE7-9927-1DA715515E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9ACB11-99BC-4CE7-9927-1DA715515E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9ACB11-99BC-4CE7-9927-1DA715515E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9ACB11-99BC-4CE7-9927-1DA715515E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD821B9-4D24-49A8-8EE1-F61F999FF146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD821B9-4D24-49A8-8EE1-F61F999FF146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD821B9-4D24-49A8-8EE1-F61F999FF146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD821B9-4D24-49A8-8EE1-F61F999FF146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43877407-C79F-497D-9217-74AD102447CB}
+	EndGlobalSection
+EndGlobal
